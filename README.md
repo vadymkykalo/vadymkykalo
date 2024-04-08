@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm Vadym
+### Hi there! 👋
 
-Diving deep into 🌐 Java, 🐍 Python, and 🐘 PHP.
+Coder dabbling in Java, Python, & PHP.
 
 <!--
 **vadymkykalo/vadymkykalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
