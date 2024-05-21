@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Coder dabbling in Java, Python, & PHP.
+I write code and sometimes it even works!
 
 <!--
 **vadymkykalo/vadymkykalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
